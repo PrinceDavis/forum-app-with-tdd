@@ -1,0 +1,7 @@
+#Forum
+ ##Entities
+   ☐ thread
+   ☐ user
+   ☐ category
+   ☐ A tread is created by a user
+   ☐  A tread belongs to a category and belongs to a user
