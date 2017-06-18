@@ -6,7 +6,7 @@
       <div class="col-md-8">
         <div class="panel panel-default">
           <div class="panel-heading">
-            <a href="#" title="{{ $thread->creator->name }}">
+            <a href="/profiles/{{ $thread->creator->name }}" title="{{ $thread->creator->name }}">
               {{ $thread->creator->name }}
             </a> Posted:
             {{ $thread->title }}
